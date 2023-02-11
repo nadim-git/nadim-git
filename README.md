@@ -40,6 +40,8 @@ my knowledge & skills.</p>
 
 <h1 align="center" dir="auto"><a id="user-content-️stay-awesome️" class="anchor" aria-hidden="true" href="#️stay-awesome️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><i>Stay awesome!</i><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji></h1>
 
+<img class="m-2 select-none pointer-events-none" draggable="false" id="quote" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D111362724479957&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fhashtag%2Fryandahl%2F&tbnid=DA8lTJrsX7XtGM&vet=12ahUKEwiR9cbMj439AhWPObcAHSZYAC4QMygFegQIARBV..i&docid=7FIzi3KEuaAV_M&w=1440&h=1013&q=ryan%20dahl%20quotes&ved=2ahUKEwiR9cbMj439AhWPObcAHSZYAC4QMygFegQIARBV" alt="">
+
 
 <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>

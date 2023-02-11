@@ -32,5 +32,7 @@ my knowledge & skills.</p>
 </article>
 
 </div>
-  ![](https://komarev.com/ghpvc/?username=nadim-git)
+
+
+![](https://komarev.com/ghpvc/?username=nadim-git)
 

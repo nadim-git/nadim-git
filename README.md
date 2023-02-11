@@ -38,4 +38,8 @@ my knowledge & skills.</p>
 ![](https://komarev.com/ghpvc/?username=nadim-git)
 
 
+<p align="center" dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
+</p>
+
 

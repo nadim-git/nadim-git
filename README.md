@@ -20,7 +20,7 @@ my knowledge & skills.</p>
 <p dir="auto">Tools - <strong>Git</strong></p>
 </li>
 <li>
-<p dir="auto">DevOps - <strong>AWS(CICD,RDS,EC2,EBS)</strong> <strong>Digital OCEAN(Space Bucket(storage))</strong></p>
+<p dir="auto">DevOps - <strong>AWS(CICD,RDS,EC2,EBS),</strong> <strong>Digital OCEAN(Space Bucket(storage))</strong></p>
 </li>
 </ul>
 
